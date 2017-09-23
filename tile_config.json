@@ -19239,11 +19239,6 @@
           ]
         },
         {
-          "id": "lighting_hidden",
-          "fg": 1005,
-          "rotates": false
-        },
-        {
           "id": "vp_craft_rig",
           "fg": 3101,
           "bg": 1005,
@@ -31130,26 +31125,6 @@
           "rotates": false
         },
         {
-          "id": "lighting_boomered_dark",
-          "fg": 2960,
-          "rotates": false
-        },
-        {
-          "id": "lighting_boomered_light",
-          "fg": 2961,
-          "rotates": false
-        },
-        {
-          "id": "lighting_lowlight_dark",
-          "fg": 2962,
-          "rotates": false
-        },
-        {
-          "id": "lighting_lowlight_light",
-          "fg": 2963,
-          "rotates": false
-        },
-        {
           "id": "blob_pit",
           "fg": 2967,
           "bg": 3150
@@ -39674,6 +39649,36 @@
           "offset": 3840,
           "bold": true,
           "color": "YELLOW"
+        }
+      ]
+    },
+    {
+      "file": "better_tiles.png",
+      "tiles": [
+        {
+          "id": "lighting_hidden",
+          "fg": 9568,
+          "rotates": false
+        },
+        {
+          "id": "lighting_boomered_dark",
+          "fg": 9569,
+          "rotates": false
+        },
+        {
+          "id": "lighting_boomered_light",
+          "fg": 9570,
+          "rotates": false
+        },
+        {
+          "id": "lighting_lowlight_dark",
+          "fg": 9571,
+          "rotates": false
+        },
+        {
+          "id": "lighting_lowlight_light",
+          "fg": 9572,
+          "rotates": false
         }
       ]
     }
