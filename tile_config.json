@@ -36968,22 +36968,6 @@
           ]
         },
         {
-          "id": "vp_hatch",
-          "fg": 4074,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 4010
-            },
-            {
-              "id": "open",
-              "fg": 4014
-            }
-          ]
-        },
-        {
           "id": "vp_door_sliding",
           "fg": 4012,
           "rotates": true,
@@ -39611,6 +39595,22 @@
             {
               "id": "broken",
               "fg": 9625
+            }
+          ]
+        },
+        {
+          "id": "vp_hatch",
+          "fg": 9573,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9574
+            },
+            {
+              "id": "open",
+              "fg": 4014
             }
           ]
         },
