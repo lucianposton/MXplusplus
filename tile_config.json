@@ -19574,18 +19574,6 @@
           ]
         },
         {
-          "id": "vp_hdhalfboard_cover",
-          "fg": 1010,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 4062
-            }
-          ]
-        },
-        {
           "id": "fd_fungicidal_gas",
           "bg": 1011,
           "rotates": false
@@ -35926,235 +35914,6 @@
           ]
         },
         {
-          "id": "vp_hdboard_horizontal",
-          "fg": 4075,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4075
-            }
-          ]
-        },
-        {
-          "id": "vp_hdhalfboard_vertical_2",
-          "fg": 4075,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4075
-            }
-          ]
-        },
-        {
-          "id": "vp_hdhalfboard_horizontal_2",
-          "fg": 4075,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4075
-            }
-          ]
-        },
-        {
-          "id": "vp_hdhalfboard_horizontal",
-          "fg": 4075,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4075
-            }
-          ]
-        },
-        {
-          "id": "vp_hdboard_ne",
-          "fg": 4076,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4076
-            }
-          ]
-        },
-        {
-          "id": "vp_hdboard_nw",
-          "fg": 4077,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4077
-            }
-          ]
-        },
-        {
-          "id": "vp_hdboard_se",
-          "fg": 4078,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4078
-            }
-          ]
-        },
-        {
-          "id": "vp_hdhalfboard_se",
-          "fg": 4078,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4078
-            }
-          ]
-        },
-        {
-          "id": "vp_hdboard_sw",
-          "fg": 4079,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4079
-            }
-          ]
-        },
-        {
-          "id": "vp_hdhalfboard_sw",
-          "fg": 4079,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4079
-            }
-          ]
-        },
-        {
-          "id": "vp_hdboard_vertical",
-          "fg": 4080,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4080
-            }
-          ]
-        },
-        {
-          "id": "vp_hdhalfboard_vertical",
-          "fg": 4080,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4080
-            }
-          ]
-        },
-        {
-          "id": "vp_hdhatch_opaque",
-          "fg": 4093,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4093
-            },
-            {
-              "id": "open",
-              "fg": 4094
-            }
-          ]
-        },
-        {
-          "id": "vp_hdframe_cover",
-          "fg": 4081,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4081
-            }
-          ]
-        },
-        {
-          "id": "vp_hdhalfboard_ne",
-          "fg": 4090,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4090
-            }
-          ]
-        },
-        {
-          "id": "vp_hdhalfboard_nw",
-          "fg": 4091,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4091
-            }
-          ]
-        },
-        {
-          "id": "vp_hdhatch",
-          "fg": 4092,
-          "rotates": true,
-          "multitile": true,
-          "additional_tiles": [
-            {
-              "id": "broken",
-              "fg": 3987,
-              "bg": 4092
-            },
-            {
-              "id": "open",
-              "fg": 4094
-            }
-          ]
-        },
-        {
           "id": "vp_cloth_halfboard_horizontal",
           "fg": 3989,
           "rotates": true,
@@ -37963,11 +37722,6 @@
           "rotates": true
         },
         {
-          "id": "vp_hdroof",
-          "fg": 4095,
-          "rotates": true
-        },
-        {
           "id": "vp_roof",
           "fg": 4095,
           "rotates": true
@@ -39679,6 +39433,242 @@
           "id": "lighting_lowlight_light",
           "fg": 9572,
           "rotates": false
+        },
+        {
+          "id": "vp_hdboard_horizontal",
+          "fg": 9584,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9616
+            }
+          ]
+        },
+        {
+          "id": "vp_hdhalfboard_horizontal",
+          "fg": 9584,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9616
+            }
+          ]
+        },
+        {
+          "id": "vp_hdhalfboard_horizontal_2",
+          "fg": 9584,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9616
+            }
+          ]
+        },
+        {
+          "id": "vp_hdboard_vertical",
+          "fg": 9585,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9617
+            }
+          ]
+        },
+        {
+          "id": "vp_hdhalfboard_vertical",
+          "fg": 9585,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9617
+            }
+          ]
+        },
+        {
+          "id": "vp_hdhalfboard_vertical_2",
+          "fg": 9585,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9617
+            }
+          ]
+        },
+        {
+          "id": "vp_hdboard_ne",
+          "fg": 9586,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9618
+            }
+          ]
+        },
+        {
+          "id": "vp_hdboard_nw",
+          "fg": 9587,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9619
+            }
+          ]
+        },
+        {
+          "id": "vp_hdboard_se",
+          "fg": 9588,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9620
+            }
+          ]
+        },
+        {
+          "id": "vp_hdboard_sw",
+          "fg": 9589,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9621
+            }
+          ]
+        },
+        {
+          "id": "vp_hdhalfboard_ne",
+          "fg": 9590,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9622
+            }
+          ]
+        },
+        {
+          "id": "vp_hdhalfboard_nw",
+          "fg": 9591,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9623
+            }
+          ]
+        },
+        {
+          "id": "vp_hdhalfboard_se",
+          "fg": 9588,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9620
+            }
+          ]
+        },
+        {
+          "id": "vp_hdhalfboard_sw",
+          "fg": 9589,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9621
+            }
+          ]
+        },
+        {
+          "id": "vp_hdhalfboard_cover",
+          "fg": 9593,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9625
+            }
+          ]
+        },
+        {
+          "id": "vp_hdhatch",
+          "fg": 9596,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9618
+            },
+            {
+              "id": "open",
+              "fg": 9620
+            }
+          ]
+        },
+        {
+          "id": "vp_hdhatch_opaque",
+          "fg": 9597,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9619
+            },
+            {
+              "id": "open",
+              "fg": 9620
+            }
+          ]
+        },
+        {
+          "id": "vp_hdframe_cover",
+          "fg": 9593,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9625
+            }
+          ]
+        },
+        {
+          "id": "vp_hdroof",
+          "fg": 9592,
+          "rotates": true,
+          "multitile": true,
+          "additional_tiles": [
+            {
+              "id": "broken",
+              "fg": 9624
+            }
+          ]
         }
       ]
     }
